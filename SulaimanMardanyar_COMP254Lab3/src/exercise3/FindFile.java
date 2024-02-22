@@ -1,8 +1,7 @@
 package exercise3;
 
 import java.io.File;
-import java.sql.SQLOutput;
-import java.util.Arrays;
+
 
 public class FindFile {
 
